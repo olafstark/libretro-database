@@ -105,5 +105,5 @@ cheat25_code = "20223C64+00000001+00223C64+00000001"
 cheat25_enable = false
 
 cheat26_desc = "Infinite Money"
-cheat26_code = "042257BC+000F423F"
+cheat26_code = "82025838+104E+8202583A+E971"
 cheat26_enable = false
